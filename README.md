@@ -34,4 +34,4 @@
 - 개발 프로젝트 진행 및 발표
   
 ## 멘토 정보
-@jooya38 @dorerilla
+[@jooya38] @dorerilla
