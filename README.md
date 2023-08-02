@@ -34,4 +34,4 @@
 - 개발 프로젝트 진행 및 발표
   
 ## 멘토 정보
-[@jooya38] @dorerilla
+[@jooya38](https://github.com/jooya38) [@dorerilla](https://github.com/dorerilla) [@kmu-hyunwoo](https://github.com/kmu-hyunwoo) [@jhj04](https://github.com/jhj04) 
