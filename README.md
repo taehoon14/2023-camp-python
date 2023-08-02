@@ -35,3 +35,13 @@
   
 ## 멘토 정보
 [@jooya38](https://github.com/jooya38) [@dorerilla](https://github.com/dorerilla) [@kmu-hyunwoo](https://github.com/kmu-hyunwoo) [@jhj04](https://github.com/jhj04) 
+
+
+조현우
+💻	
+
+황연주
+💻
+
+정현주
+💻	
